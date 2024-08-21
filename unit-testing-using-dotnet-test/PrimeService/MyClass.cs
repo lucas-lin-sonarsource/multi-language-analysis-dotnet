@@ -8,7 +8,7 @@ namespace Prime.Services
 
     public MyClass(ILogger<MyClass> logger)
     {
-        _logger = logger;
+        _logger = logger;;;;
     }
 
     public void DoSomething()
