@@ -7,3 +7,5 @@ dotnet dotcover test ".../multi-language-analysis-dotnet/unit-testing-using-dotn
 npm test >> sonar-analysis.log && \
 dotnet sonarscanner end /d:sonar.token="<token>" >> sonar-analysis.log
 ```
+
+Testing PR
